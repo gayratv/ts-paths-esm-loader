@@ -1,0 +1,10 @@
+node_modules
+build
+dist
+.idea
+/esbuild/
+/tsconfig.tsbuildinfo
+/data-html/
+/.env_server_local
+/.env
+/src/config/private-conf.ts
